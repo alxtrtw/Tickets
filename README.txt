@@ -6,7 +6,7 @@ Every type of ticket has it's own class. The abstract class Ticket is also respo
 When booking a ticket, client's name and reservation ID needs to be typed into the input.
 
 Room for improvement:
-     * JSON instead of CSV
+     * Replace CSV with JSON
      * Multiple tickets for one trip, seat number generator
      * Reservation ID generator
      * Multiple stops in a Mixed ticket
